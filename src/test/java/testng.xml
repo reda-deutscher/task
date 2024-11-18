@@ -1,0 +1,8 @@
+<suite name="Regression Suite">
+	<parameter name="browser" value="chrome" />
+	<test name="Regression Test" preserve-order="false">
+    <classes>
+      <class name="NewTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
